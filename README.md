@@ -1,5 +1,3 @@
-# Windows_Services_Advanced_Lab
-
 # Windows 10 Services Advanced Lab
 
 ## 🛡️ Στόχος
