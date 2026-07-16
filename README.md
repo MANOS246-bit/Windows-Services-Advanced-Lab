@@ -1,8 +1,8 @@
-# Windows 10 Services Advanced Lab
+# Windows 10 Services & Firewall Administration Lab
 
 ## 🛡️ Στόχος
 
-Δημιουργία ενός εργαστηρίου σε **Windows 10** για εξάσκηση στη διαχείριση των Windows Services, στον έλεγχο της κατάστασης υπηρεσιών μέσω GUI και Command Prompt, στη διαχείριση του Windows Firewall και στη βασική αντιμετώπιση προβλημάτων δικτύου.
+Δημιουργία ενός εργαστηρίου σε **Windows 10** για εξάσκηση στη διαχείριση των Windows Services, στην επαλήθευση της κατάστασης υπηρεσιών μέσω GUI και Command Prompt, στη διαμόρφωση του Windows Firewall και στη βασική αντιμετώπιση προβλημάτων δικτύου.
 
 Πραγματοποιήθηκαν δοκιμές σε:
 
@@ -33,7 +33,7 @@
 
 ### Windows Update Service
 
-Verified the Windows Update service using both the graphical interface and the command line.
+Verified the Windows Update service status using both the graphical interface and Command Prompt.
 
 **Screenshots**
 
@@ -41,7 +41,7 @@ Verified the Windows Update service using both the graphical interface and the c
 * [Service State Before](./Windows_Service_Status/2_wuauserv_state_before.png)
 * [Service State After](./Windows_Service_Status/3_wuauserv_state_after.png)
 
-**Commands**
+**Command**
 
 ```cmd
 sc query wuauserv
@@ -115,7 +115,7 @@ Changed the VirtualBox network adapter from NAT to Bridged mode and verified net
 **Result**
 
 * Changed the network adapter from NAT to Bridged.
-* Successfully restored communication between virtual machines.
+* Successfully restored network communication between the host and virtual machine.
 
 ---
 
@@ -132,11 +132,10 @@ Explored additional Windows Service configuration options.
 
 **Result**
 
-* Examined service status.
-* Reviewed recovery options.
-* Inspected service dependencies.
-* Observed troubleshooting information for service errors.
-
+* Verified Windows service status.
+* Reviewed Recovery options.
+* Analyzed service dependencies.
+* Examined service error reporting and troubleshooting information.
 ---
 
 ## 🧠 Τι Έμαθα
@@ -149,6 +148,8 @@ Explored additional Windows Service configuration options.
 * Understand VirtualBox NAT and Bridged networking.
 * Analyze Windows service recovery options and dependencies.
 * Improve Windows administration and troubleshooting skills.
+* Verify Windows Firewall profiles using netsh.
+* Understand Windows service startup behavior.
 
 ---
 
@@ -168,7 +169,7 @@ Explored additional Windows Service configuration options.
 
 ## 💼 CV Entry
 
-Managed Windows Services using both GUI and Command Prompt, verified Windows Update service behavior, configured Windows Firewall ICMP rules, analyzed service recovery settings and dependencies, and tested VirtualBox NAT and Bridged networking to strengthen Windows administration, troubleshooting and IT support skills.
+Managed Windows Services using both GUI and Command Prompt, verified Windows Update behavior, configured Windows Firewall ICMP rules, analyzed service recovery settings and dependencies, and configured VirtualBox networking (NAT and Bridged) to strengthen Windows administration, troubleshooting and networking skills.
 
 ---
 
