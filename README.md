@@ -37,9 +37,9 @@ Verified the Windows Update service status using both the graphical interface an
 
 **Screenshots**
 
-* [Windows Update Properties](./Windows_Service_Status/1_wuauserv_properties.png)
-* [Service State Before](./Windows_Service_Status/2_wuauserv_state_before.png)
-* [Service State After](./Windows_Service_Status/3_wuauserv_state_after.png)
+* [Windows Update Properties](./Windows_Service_Status/1Windows-Update-Properties.png)
+* [Service State Before](./Windows_Service_Status/2_Service-State-Before.png)
+* [Service State After](./Windows_Service_Status/3Service-State-After.png)
 
 **Command**
 
