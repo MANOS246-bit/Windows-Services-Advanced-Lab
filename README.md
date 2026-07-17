@@ -83,8 +83,7 @@ Verified the active Windows Firewall profile and configured an inbound ICMP bloc
 
 **Screenshots**
 
-* [Current Firewall Profile](./screenshots/netsh-advfirewall-show-currentprofile.png)
-* [Inbound ICMP Rule](./screenshots/Succesful-Ping.png)
+* [Current Firewall Profile/Inbound ICMP Rule](./screenshots/netsh-advfirewall-show-currentprofile.png)
 * [Ping Block Test](./screenshots/ping-command.png)
 
 **Commands**
