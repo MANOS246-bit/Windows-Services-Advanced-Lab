@@ -83,9 +83,9 @@ Verified the active Windows Firewall profile and configured an inbound ICMP bloc
 
 **Screenshots**
 
-* [Current Firewall Profile](./screenshots/current-firewall-profile_cmd.png)
-* [Inbound ICMP Rule](./screenshots/inbound-rule-block-icmp-public.png)
-* [Ping Block Test](./screenshots/ping-block-test.png)
+* [Current Firewall Profile](./screenshots/netsh-advfirewall-show-currentprofile.png)
+* [Inbound ICMP Rule](./screenshots/Succesful-Ping.png)
+* [Ping Block Test](./screenshots/ping-command.png)
 
 **Commands**
 
@@ -109,7 +109,6 @@ Changed the VirtualBox network adapter from NAT to Bridged mode and verified net
 
 **Screenshots**
 
-* [UnSuccesfull Ping](./screenshots/ping-command.png)
 * [Bridged Adapter](./screenshots/virtualbox-bridged-mode.png)
 * [Successful Ping](./screenshots/Succesful-Ping.png)
 
