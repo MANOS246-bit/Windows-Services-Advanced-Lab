@@ -37,9 +37,9 @@ Verified the Windows Update service status using both the graphical interface an
 
 **Screenshots**
 
-* [Windows Update Properties](./screenshots/WindowsUpdateProperties.png)
+* [Windows Update Properties](./screenshots/Windows-Update-Properties.png)
 * [Service State Before](./screenshots/_Service-State-Before.png)
-* [Service State After](./screenshots/3Service-State-After.png)
+* [Service State After](./screenshots/Service-State-After.png)
 
 **Command**
 
@@ -60,8 +60,8 @@ Located a Windows service using Command Prompt and verified it through Services.
 
 **Screenshots**
 
-* [Service Properties](./screenshots/1_service_properties.png)
-* [SC Query Spooler](./screenshots/2_sc_query_spooler.png)
+* [Service Properties](./screenshots/service-properties.png)
+* [SC Query Spooler](./screenshots/2_sc-query-spooler.png)
 
 **Command**
 
@@ -83,9 +83,9 @@ Verified the active Windows Firewall profile and configured an inbound ICMP bloc
 
 **Screenshots**
 
-* [Current Firewall Profile](./screenshots/_current_firewall_profile_cmd.png)
-* [Inbound ICMP Rule](./screenshots/_inbound_rule_block_icmp_public.png)
-* [Ping Block Test](./screenshots/_ping_block_test.png)
+* [Current Firewall Profile](./screenshots/current-firewall-profile_cmd.png)
+* [Inbound ICMP Rule](./screenshots/inbound-rule-block-icmp-public.png)
+* [Ping Block Test](./screenshots/ping-block-test.png)
 
 **Commands**
 
@@ -109,8 +109,8 @@ Changed the VirtualBox network adapter from NAT to Bridged mode and verified net
 
 **Screenshots**
 
-* [Bridged Adapter](./screenshots/_virtualbox_bridged_mode.png)
-* [Successful Ping](./screenshots/_ping_success_bridged.png)
+* [Bridged Adapter](./screenshots/virtualbox-bridged-mode.png)
+* [Successful Ping](./screenshots/ping-success-bridged.png)
 
 **Result**
 
@@ -125,10 +125,10 @@ Explored additional Windows Service configuration options.
 
 **Screenshots**
 
-* [Service Status](./screenshots/_service_status.png)
-* [Recovery Settings](./screenshots/_recovery_settings.png)
-* [Dependencies](./screenshots/_dependencies.png)
-* [Troubleshooting Error](./screenshots/_troubleshooting_error.png)
+* [Service Status](./screenshots/service-status.png)
+* [Recovery Settings](./screenshots/recovery-settings.png)
+* [Dependencies](./screenshots/dependencies.png)
+* [Troubleshooting Error](./screenshots/troubleshooting-error.png)
 
 **Result**
 
