@@ -109,6 +109,7 @@ Changed the VirtualBox network adapter from NAT to Bridged mode and verified net
 
 **Screenshots**
 
+* [UnSuccesfull Ping](./screenshots/ping-command.png)
 * [Bridged Adapter](./screenshots/virtualbox-bridged-mode.png)
 * [Successful Ping](./screenshots/Succesful-Ping.png)
 
@@ -121,14 +122,16 @@ Changed the VirtualBox network adapter from NAT to Bridged mode and verified net
 
 ### Advanced Windows Services
 
-Explored additional Windows Service configuration options.
+Explored additional Windows Service configuration options in "Guide to creating inbound connection rules".
 
 **Screenshots**
 
-* [Service Status](./screenshots/service-status.png)
-* [Recovery Settings](./screenshots/recovery-settings.png)
-* [Dependencies](./screenshots/dependencies.png)
-* [Troubleshooting Error](./screenshots/troubleshooting-error.png)
+* [Rule](./screenshots/Type-of-Rule.png)
+* [Program](./screenshots/Program.png)
+* [Protocol](./screenshots/Protocol-and-Ports.png)
+* [Range](./screenshots/width-range.png)
+* [Actions](./screenshots/Action.png)
+* [Profile](./screenshots/Profile.png)
 
 **Result**
 
