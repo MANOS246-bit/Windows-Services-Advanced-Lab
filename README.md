@@ -110,7 +110,7 @@ Changed the VirtualBox network adapter from NAT to Bridged mode and verified net
 **Screenshots**
 
 * [Bridged Adapter](./screenshots/virtualbox-bridged-mode.png)
-* [Successful Ping](./screenshots/ping-success-bridged.png)
+* [Successful Ping](./screenshots/Succesful-Ping.png)
 
 **Result**
 
