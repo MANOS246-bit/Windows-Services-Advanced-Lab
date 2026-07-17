@@ -37,9 +37,9 @@ Verified the Windows Update service status using both the graphical interface an
 
 **Screenshots**
 
-* [Windows Update Properties](./Windows_Update/1WindowsUpdateProperties.png)
-* [Service State Before](./Windows_Update/2_Service-State-Before.png)
-* [Service State After](./Windows_Update/3Service-State-After.png)
+* [Windows Update Properties](./screenshots/WindowsUpdateProperties.png)
+* [Service State Before](./screenshots/_Service-State-Before.png)
+* [Service State After](./screenshots/3Service-State-After.png)
 
 **Command**
 
@@ -60,8 +60,8 @@ Located a Windows service using Command Prompt and verified it through Services.
 
 **Screenshots**
 
-* [Service Properties](./Service_Identification/1_service_properties.png)
-* [SC Query Spooler](./Service_Identification/2_sc_query_spooler.png)
+* [Service Properties](./screenshots/1_service_properties.png)
+* [SC Query Spooler](./screenshots/2_sc_query_spooler.png)
 
 **Command**
 
@@ -83,9 +83,9 @@ Verified the active Windows Firewall profile and configured an inbound ICMP bloc
 
 **Screenshots**
 
-* [Current Firewall Profile](./Windows_Firewall/1_current_firewall_profile_cmd.png)
-* [Inbound ICMP Rule](./Windows_Firewall/2_inbound_rule_block_icmp_public.png)
-* [Ping Block Test](./Windows_Firewall/3_ping_block_test.png)
+* [Current Firewall Profile](./screenshots/_current_firewall_profile_cmd.png)
+* [Inbound ICMP Rule](./screenshots/_inbound_rule_block_icmp_public.png)
+* [Ping Block Test](./screenshots/_ping_block_test.png)
 
 **Commands**
 
@@ -109,8 +109,8 @@ Changed the VirtualBox network adapter from NAT to Bridged mode and verified net
 
 **Screenshots**
 
-* [Bridged Adapter](./Windows_Firewall/4_virtualbox_bridged_mode.png)
-* [Successful Ping](./Windows_Firewall/5_ping_success_bridged.png)
+* [Bridged Adapter](./screenshots/_virtualbox_bridged_mode.png)
+* [Successful Ping](./screenshots/_ping_success_bridged.png)
 
 **Result**
 
@@ -125,10 +125,10 @@ Explored additional Windows Service configuration options.
 
 **Screenshots**
 
-* [Service Status](./Windows_Services_Advanced/1_service_status.png)
-* [Recovery Settings](./Windows_Services_Advanced/2_recovery_settings.png)
-* [Dependencies](./Windows_Services_Advanced/3_dependencies.png)
-* [Troubleshooting Error](./Windows_Services_Advanced/4_troubleshooting_error.png)
+* [Service Status](./screenshots/_service_status.png)
+* [Recovery Settings](./screenshots/_recovery_settings.png)
+* [Dependencies](./screenshots/_dependencies.png)
+* [Troubleshooting Error](./screenshots/_troubleshooting_error.png)
 
 **Result**
 
