@@ -38,7 +38,7 @@ Verified the Windows Update service status using both the graphical interface an
 **Screenshots**
 
 * [Windows Update Properties](./screenshots/Windows-Update-Properties.png)
-* [Service State Before](./screenshots/_Service-State-Before.png)
+* [Service State Before](./screenshots/Service-State-Before.png)
 * [Service State After](./screenshots/Service-State-After.png)
 
 **Command**
@@ -61,7 +61,7 @@ Located a Windows service using Command Prompt and verified it through Services.
 **Screenshots**
 
 * [Service Properties](./screenshots/service-properties.png)
-* [SC Query Spooler](./screenshots/2_sc-query-spooler.png)
+* [SC Query Spooler](./screenshots/sc-query-spooler.png)
 
 **Command**
 
